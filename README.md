@@ -13,7 +13,7 @@ Queues
 Linear Search
 Binary Search
 
-**2b. Sorting Algorithms**
+**3. Sorting Algorithms**
 Bubble Sort
 Selection Sort
 Insertion Sort
@@ -23,32 +23,32 @@ Heap Sort
 Counting Sort
 Radix Sort
 
-**3. Trees**
+**4. Trees**
 Binary Tree
 Binary Search Tree (BST)
 AVL Tree
 B-Trees
 
-**4. Graphs**
+**5. Graphs**
 Directed and Undirected Graphs
 DFS, BFS
 Minimum Spanning Trees (Prim’s, Kruskal’s)
 Shortest Path Algorithms (Dijkstra, Bellman-Ford)
 
-**5. Advanced Data Structures**
+**6. Advanced Data Structures**
 Trie 
 Segment Trees 
 Fenwick Trees
 Disjoint Sets (Union-Find)
 Suffix Trees and Arrays
 
-**6. Complex Data Structures**
+**7. Complex Data Structures**
 2-3 Trees
 B/B+ Trees
 Skip Lists
 ISAM
 
-**7. Algorithm Paradigms**
+**8. Algorithm Paradigms**
 Brute Force
 Recursion
 Backtracking
