@@ -9,11 +9,11 @@ int main()
 
     while(i<=n)
     {
-        int j = 1;
-        while(j<=n)
+        int j = n; // or start w j = 1, j<=n, j++ and print cout<< n - j +1
+        while(j>=1)
         {
-            cout<< i;
-            j++;
+            cout<< j;
+            j--;
         }
         cout<<endl;
         i++;
@@ -23,6 +23,6 @@ int main()
 
 }
 //prints 
-//1 1 1 
-//2 2 2
-//3 3 3
+//3 2 1
+//3 2 1
+//3 2 1

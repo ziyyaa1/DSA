@@ -12,7 +12,7 @@ int main()
         int j = 1;
         while(j<=n)
         {
-            cout<< i;
+            cout<< j;
             j++;
         }
         cout<<endl;
@@ -23,6 +23,6 @@ int main()
 
 }
 //prints 
-//1 1 1 
-//2 2 2
-//3 3 3
+//1 2 3
+//1 2 3
+//1 2 3
